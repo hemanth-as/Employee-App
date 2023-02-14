@@ -1,0 +1,20 @@
+.buttons{
+  float: left;
+  /* border: 2px solid blue; */
+  margin:10px 10px 10px 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  /* height: 10%; */
+}
+.main{
+  /* height:auto;
+  display: flex;
+  justify-content: center;
+  align-items: center; */
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#title{
+  padding: 1% 0% 2% 1%;
+}
+#buttons{
+  padding: 1% 4% 2% 3%;
+}
